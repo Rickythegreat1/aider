@@ -1,0 +1,47 @@
+
+# 2023-07-16 13:52:39.766580
++/h
+
+# 2023-07-16 13:55:40.990291
++/c
+
+# 2023-07-16 13:55:49.789915
++/clear
+
+# 2023-07-16 13:56:31.980712
++change hello.js to app.py
+
+# 2023-07-16 13:58:15.580989
++change the name to simply `app.py`
+
+# 2023-07-16 13:58:40.625418
++where is app.py located?
+
+# 2023-07-16 13:59:46.263355
++make a flask app with a /hello endpoint that returns hello world
+
+# 2023-07-16 14:00:32.719855
++[{
++	"resource": "/Users/ricky/Documents/GitHub/aider/app.py",
++	"owner": "_generated_diagnostic_collection_name_#0",
++	"code": {
++		"value": "reportMissingImports",
++		"target": {
++			"$mid": 1,
++			"path": "/microsoft/pyright/blob/main/docs/configuration.md",
++			"scheme": "https",
++			"authority": "github.com",
++			"fragment": "reportMissingImports"
++		}
++	},
++	"severity": 8,
++	"message": "Import \"flask\" could not be resolved",
++	"source": "Pylance",
++	"startLineNumber": 1,
++	"startColumn": 6,
++	"endLineNumber": 1,
++	"endColumn": 11
++}]
+
+# 2023-07-16 14:01:20.244425
++Import "flask" could not be resolved
